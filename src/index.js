@@ -14,3 +14,4 @@ function handleTriangleForm() {
   window.addEventListener("load", function() {
     document.querySelector("#triangle-checker-form").addEventListener("submit", handleTriangleForm);
   });
+  
